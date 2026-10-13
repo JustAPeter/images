@@ -71,10 +71,6 @@
     <text x="56" y="66" class="mono white label">
       SYSTEM INTERFACE 01
     </text>
-
-    <path d="M470 30H722L734 42V78H470Z"
-          fill="url(#glass)" stroke="#d9dfda"
-          stroke-opacity=".4"/>
   </g>
 
   <!-- Left diagnostic rail -->
