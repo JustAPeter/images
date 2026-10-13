@@ -278,9 +278,9 @@
     <path d="M1077 369H1145V441H1077Z"
           fill="#ffb52e" fill-opacity=".08"
           stroke="#ffb52e" stroke-opacity=".65"/>
-    <path d="M1087 380L1098 400H1076Z"
+    <path d="M1111 380L1098 400H1076Z"
           fill="#ffb52e"/>
-    <text x="1087" y="395" class="mono"
+    <text x="1111" y="395" class="mono"
           font-size="10" fill="#111">!</text>
     <text x="1111" y="414" class="mono amber tiny"
           text-anchor="middle">CAUTION</text>
