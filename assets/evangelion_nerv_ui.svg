@@ -279,8 +279,8 @@
           fill="#ffb52e" fill-opacity=".08"
           stroke="#ffb52e" stroke-opacity=".65"/>
     <path d="M1111 380L1125 400H1096Z" fill="#ffb52e"></path>
-    <text x="1111" y="395" class="mono"
-          font-size="10" fill="#111">!</text>
+    <text x="1108" y="395" class="mono"
+          font-size="12" fill="#111">!</text>
     <text x="1111" y="414" class="mono amber tiny"
           text-anchor="middle">CAUTION</text>
     <text x="1111" y="428" class="mono white tiny"
