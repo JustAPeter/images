@@ -75,35 +75,6 @@
     <path d="M470 30H722L734 42V78H470Z"
           fill="url(#glass)" stroke="#d9dfda"
           stroke-opacity=".4"/>
-
-    <text x="485" y="47" class="mono muted tiny">
-      OPERATOR
-    </text>
-    <text x="485" y="65" class="mono white label">
-      JUSTAPETER
-    </text>
-
-    <circle cx="697" cy="53" r="5" fill="#ffb52e"
-            filter="url(#softGlow)"/>
-    <text x="687" y="69" class="mono amber tiny"
-          text-anchor="middle">ACTIVE</text>
-
-    <path d="M758 30H1160V78H758Z"
-          fill="url(#glass)" stroke="#d9dfda"
-          stroke-opacity=".4"/>
-
-    <text x="775" y="47" class="mono muted tiny">
-      DEVELOPMENT ENVIRONMENT
-    </text>
-    <text x="775" y="65" class="mono white small">
-      REACT / NEXT.JS / TYPESCRIPT
-    </text>
-
-    <path d="M1120 42h22v14h-22z"
-          fill="none" stroke="#ffb52e"/>
-    <path d="M1125 49h4l3-4 4 7 3-3"
-          fill="none" stroke="#ffb52e"
-          stroke-width="1.2"/>
   </g>
 
   <!-- Left diagnostic rail -->
