@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <defs>
+    <linearGradient id="night" x2="0" y2="1">
+      <stop stop-color="#22203d"/>
+      <stop offset="1" stop-color="#090d1b"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="360" rx="20" fill="url(#night)"/>
+
+  <!-- Interface markings -->
+  <path d="M35 30h145l-12 12H35zm0 16h95" fill="#8bffb0"/>
+  <text x="35" y="76" font-family="monospace" font-size="11" letter-spacing="3" fill="#8bffb0">PERSONAL TERMINAL / 01</text>
+  <text x="35" y="122" font-family="monospace" font-size="34" font-weight="bold" fill="#f2efff">JUST A PETER</text>
+  <text x="37" y="149" font-family="monospace" font-size="12" fill="#aaa9d0">INTERFACES FOR HUMANS.</text>
+  <text x="37" y="167" font-family="monospace" font-size="12" fill="#aaa9d0">CURIOSITY FOR EVERYTHING ELSE.</text>
+  <path d="M37 187h278" stroke="#fa639e" stroke-width="3"/>
+
+  <!-- Abstract skyline -->
+  <path d="M0 250l50-45 35 28 46-68 41 80 49-40 43 45 50-83 43 83 55-42 43 44 53-75 48 75 48-38 54 38 53-59 50 59v108H0z" fill="#292944"/>
+  <path d="M0 292l83-30 58 22 65-37 54 45 78-30 50 30 69-42 70 42 56-24 70 24 64-38 67 38 56-22 60 22v68H0z" fill="#131b30"/>
+  <g fill="#8bffb0">
+    <rect x="76" y="260" width="5" height="14"/><rect x="91" y="253" width="5" height="21"/>
+    <rect x="211" y="274" width="5" height="12"/><rect x="226" y="267" width="5" height="19"/>
+    <rect x="545" y="267" width="5" height="16"/><rect x="560" y="258" width="5" height="25"/>
+  </g>
+  <g stroke="#fa639e" stroke-width="2" fill="none">
+    <path d="M650 35h65v25h55"/><path d="M865 90h-34v35h-26"/>
+    <path d="M606 60l10-10 10 10-10 10z"/>
+  </g>
+  <text x="651" y="27" font-family="monospace" font-size="10" fill="#fa639e">SYNC: 94.7%</text>
+
+  <!-- Robot fox -->
+  <ellipse cx="704" cy="304" rx="93" ry="10" fill="#050811"/>
+  <path d="M658 218l-17-56 44 25 25 0 41-27-8 66" fill="#ee785c" stroke="#ffb18d" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M650 202l-7-27 28 17m70 4l27-20-4 35" fill="#3a345b"/>
+  <path d="M650 215q52-32 102 0l-9 64q-42 28-84 0z" fill="#e9765b" stroke="#ffb18d" stroke-width="3"/>
+  <path d="M663 234l21-9 13 10-16 9zM706 235l18-10 14 9-16 10z" fill="#a0ffb7"/>
+  <path d="M691 253h12l-6 7z" fill="#382b4a"/>
+  <path d="M696 260q8 7 16 0" fill="none" stroke="#442c42" stroke-width="2"/>
+  <path d="M652 240l-19 0m20 9l-21 5m104-14l20 0m-20 9l21 5" stroke="#ffc09d" stroke-width="2"/>
+  <path d="M738 272q53 4 42 29-7 15-23 2" fill="none" stroke="#e9765b" stroke-width="11" stroke-linecap="round"/>
+  <rect x="671" y="278" width="62" height="19" rx="4" fill="#2b3150" stroke="#a0ffb7" stroke-width="2"/>
+  <text x="682" y="291" font-family="monospace" font-size="9" fill="#a0ffb7">FOX-01</text>
+
+  <!-- Console -->
+  <rect x="38" y="211" width="420" height="86" rx="7" fill="#0b1120" stroke="#7776a8" stroke-width="2"/>
+  <circle cx="53" cy="224" r="3" fill="#fa639e"/><circle cx="64" cy="224" r="3" fill="#e8d28e"/><circle cx="75" cy="224" r="3" fill="#8bffb0"/>
+  <text x="54" y="246" font-family="monospace" font-size="12" fill="#8bffb0">&gt; pnpm run wonder</text>
+  <text x="54" y="265" font-family="monospace" font-size="12" fill="#c5c4e6">✓ imagination initialized</text>
+  <text x="54" y="284" font-family="monospace" font-size="12" fill="#fa8ab0">! sleep is optional. (probably)</text>
+  <text x="37" y="334" font-family="monospace" font-size="11" letter-spacing="2" fill="#8888ad">REACT / TYPESCRIPT / HUMAN ERROR</text>
+  <text x="760" y="334" font-family="monospace" font-size="11" fill="#8bffb0">END TRANSMISSION</text>
+</svg>
