@@ -7,6 +7,8 @@
     </linearGradient>
   </defs>
   <rect width="900" height="360" rx="22" fill="url(#dusk)"/>
+
+  <!-- Moon -->
   <circle cx="720" cy="78" r="43" fill="#fff0d1"/>
   <circle cx="737" cy="65" r="42" fill="#d9b6d7"/>
   <g fill="#fff7e8">
@@ -15,19 +17,27 @@
     <circle cx="642" cy="135" r="3"/>
     <circle cx="781" cy="190" r="3"/>
   </g>
+
+  <!-- Clouds -->
   <g fill="#fff0e8" opacity=".75">
     <ellipse cx="183" cy="110" rx="58" ry="18"/>
     <ellipse cx="158" cy="104" rx="27" ry="24"/>
     <ellipse cx="197" cy="94" rx="31" ry="28"/>
     <ellipse cx="225" cy="109" rx="27" ry="19"/>
   </g>
+
+  <!-- Hills -->
   <path d="M0 245Q135 194 255 246T505 239T720 242T900 220V360H0Z" fill="#9c91bc"/>
   <path d="M0 290Q155 248 310 292T580 278T900 286V360H0Z" fill="#555d86"/>
+
+  <!-- House -->
   <path d="M565 257l64-52 64 52v68H565z" fill="#f6dfca"/>
   <path d="M550 260l79-67 79 67" fill="none" stroke="#786888" stroke-width="10" stroke-linejoin="round"/>
   <rect x="591" y="280" width="25" height="45" rx="12" fill="#c28e9f"/>
   <rect x="637" y="273" width="34" height="27" rx="3" fill="#7884a9"/>
   <path d="M654 273v27m-17-13h34" stroke="#ffe5b4" stroke-width="3"/>
+
+  <!-- Cat -->
   <ellipse cx="342" cy="323" rx="72" ry="9" fill="#41476b" opacity=".2"/>
   <path d="M300 322v-48q0-34 39-34t39 34v48z" fill="#f6dac2"/>
   <path d="M301 267l-4-32 27 19m38 13l19-32 3 39" fill="#f6dac2" stroke="#f6dac2" stroke-width="3" stroke-linejoin="round"/>
@@ -38,13 +48,19 @@
   <circle cx="352" cy="285" r="3.5" fill="#555575"/>
   <path d="M336 295h8l-4 5z" fill="#c28e9f"/>
   <path d="M340 300q-7 6-13 0m13 0q7 6 13 0" fill="none" stroke="#b17d8d" stroke-width="2"/>
+
+  <!-- Floating notebook -->
   <g transform="rotate(-5 451 196)">
     <rect x="410" y="164" width="128" height="75" rx="8" fill="#fff4df" stroke="#c18e9d" stroke-width="2"/>
     <path d="M426 182h90m-90 13h65m-65 13h78" stroke="#a6a0c8" stroke-width="3" stroke-linecap="round"/>
     <text x="426" y="228" font-family="monospace" font-size="10" fill="#77729e">keep making</text>
   </g>
+
+  <!-- Plant -->
   <path d="M788 314q-31-44-8-61 21 27 8 61m0 0q9-45 37-43-4 30-37 43m-3 0q-35-21-28-41 25 8 28 41" fill="#b2c9a9"/>
   <path d="M771 313h40l-5 28h-30z" fill="#e4b1a9"/>
+
+  <!-- Lettering -->
   <text x="48" y="49" font-family="monospace" font-size="11" letter-spacing="3" fill="#5b587f">NOTES FROM A QUIET MIND</text>
   <text x="48" y="91" font-family="Georgia,serif" font-size="31" fill="#3c4167">Curious by nature.</text>
   <text x="48" y="128" font-family="Georgia,serif" font-size="31" fill="#3c4167">Frontend by craft.</text>
