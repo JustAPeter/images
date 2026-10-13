@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101923"/>
+      <stop offset="1" stop-color="#243638"/>
+    </linearGradient>
+    <linearGradient id="lamp" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE2A3" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#FFE2A3" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="250" rx="18" fill="url(#bg)"/>
+  <circle cx="690" cy="95" r="95" fill="#FFE0A0" opacity=".035"/>
+  <rect x="675" y="28" width="180" height="115" rx="8" fill="#101923" stroke="#5D8580" stroke-width="2"/>
+  <path d="M765 28V143M675 86H855" stroke="#5D8580" stroke-width="2"/>
+  <path d="M692 48l-7 22m38-28l-8 26m75-9l-7 24m35 15l-6 19m-85-2l-8 16" stroke="#73D9C2" stroke-width="2" opacity=".7"/>
+  <circle cx="717" cy="60" r="4" fill="#F8D99B"/>
+  <circle cx="820" cy="49" r="3" fill="#F8D99B"/>
+  <path d="M640 185L680 70L730 185Z" fill="url(#lamp)"/>
+  <path d="M626 73L661 73L671 92L616 92Z" fill="#E8C78C"/>
+  <path d="M644 92V160" stroke="#E8C78C" stroke-width="4"/>
+  <path d="M625 162H663" stroke="#E8C78C" stroke-width="4" stroke-linecap="round"/>
+  <rect x="0" y="195" width="900" height="55" fill="#101820" opacity=".65"/>
+  <path d="M0 195H900" stroke="#5B8980" stroke-opacity=".55"/>
+  <g transform="translate(710 167)">
+    <path d="M-28 13L-29-9L-14 0Q0-8 14 0L29-9L28 13Q23 35 0 35Q-23 35-28 13Z" fill="#172326" stroke="#8ADCC8" stroke-width="2"/>
+    <path d="M-24-5L-25-22L-10-10M24-5L25-22L10-10" fill="#172326" stroke="#8ADCC8" stroke-width="2" stroke-linejoin="round"/>
+    <ellipse cx="-10" cy="12" rx="3" ry="4" fill="#F7DFA8"/>
+    <ellipse cx="10" cy="12" rx="3" ry="4" fill="#F7DFA8"/>
+    <path d="M-4 22Q0 26 4 22" fill="none" stroke="#8ADCC8" stroke-width="2" stroke-linecap="round"/>
+    <path d="M-18 37Q0 29 18 37" fill="none" stroke="#8ADCC8" stroke-width="2"/>
+  </g>
+  <g fill="#DDF8ED" font-family="monospace">
+    <text x="48" y="65" font-size="13" letter-spacing="3" fill="#83CDBB">A LITTLE CORNER OF THE INTERNET</text>
+    <text x="45" y="112" font-size="35" font-weight="bold">Hi, I'm YOUR_NAME</text>
+    <text x="48" y="145" font-size="15" fill="#B3C9C6">Senior / Staff Frontend Engineer</text>
+    <text x="48" y="171" font-size="12" fill="#83CDBB">React · Next.js · TypeScript · coffee</text>
+  </g>
+  <text x="48" y="225" font-family="monospace" font-size="11" fill="#A5B9B5">23:48  /  rain outside  /  one more commit</text>
+  <text x="855" y="225" font-family="monospace" font-size="11" text-anchor="end" fill="#83CDBB">ฅ^•ﻌ•^ฅ</text>
+</svg>
